@@ -1,1 +1,0 @@
-# johnedwardandoy.github.io
