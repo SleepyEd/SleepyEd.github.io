@@ -1,0 +1,8 @@
+body {
+  text-align:justify;
+  background: #39A09E; background: -webkit-linear-gradient(to top, #4a577a, #677697, #8390b0, #93b1cb, #8bacc8, #c1e2e9); 
+  background: linear-gradient(to top, #4a577a, #677697, #8390b0, #93b1cb, #8bacc8, #c1e2e9);
+  width: 95%; 
+  display: block; 
+  margin: 0 auto;
+}
