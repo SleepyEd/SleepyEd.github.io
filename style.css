@@ -6,6 +6,7 @@ body {
   width: 95%; 
   display: block; 
   margin: 0 auto;
+  padding: 15px;
 }
 
 .tableTemplate {
