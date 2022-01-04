@@ -1,5 +1,7 @@
 body {
-  text-align:justify;
+  text-align: justify;
+  font-family: 'Tahoma', sans-serif; 
+  color: white;
   background: #39A09E; background: -webkit-linear-gradient(to top, #4a577a, #677697, #8390b0, #93b1cb, #8bacc8, #c1e2e9); 
   width: 95%; 
   display: block; 
@@ -12,7 +14,6 @@ body {
 }
 
 .tdTemplate {
-  font-family: 'Tahoma', sans-serif; 
   background: transparent; 
   border: 1px solid transparent; 
   color: #FFFFFF;
